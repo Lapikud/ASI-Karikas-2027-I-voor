@@ -1,5 +1,12 @@
 # ASI Karikas 2027 - I voor
-## Alustuseks
+
+## Sisukord
+- [Alusta siit!](#alustuseks)
+- [Ülesanded](#ülesanded)
+- [Simulaator](#simulaator)
+- [Linuxi ja macOS-i juhend simulaatori kasutamiseks](#linuxi-ja-macos-i-juhend-simulaatori-kasutamiseks)
+
+## Alusta siit!
 ### 1. Registreeri ennast võistlusele
 
 Selleks, et saaksime Sinu osalemise ära kaardistada, siis kui veel pole, täida ära [**LIITUMISANKEET**](https://pilves.lapikud.ee/apps/forms/s/pETWDxgowe6K6Zjb5wmXfwz8).
@@ -154,6 +161,8 @@ Kui panid repole teise nime, kasuta käsus seda nime.
 **Nüüd on repo sinu arvutis olemas ning saad hakata ülesandeid lahendama.**
 
 #### 4. Laadi lahendused GitHubi üles
+
+(Võid seda ka praegu testimiseks ära proovida ehk ei pea ootama, kui kõik ülesanded lahendatud. Arendamise hea tava on mingi suurema tüki valmimisel enda kood GitHubi saata. Selleks versioonihaldus ongi, et kui juhtub midagi sinu lokaalses keskkonnas, siis saaksid hiljem selle pilvest tagasi kloonida või erinevates seadmetes koodile ligi pääseda.)
 
 Arvutis tehtud muudatused ei ilmu GitHubi automaatselt. Selleks tuleb need Giti abil salvestada ning üles laadida.
 
