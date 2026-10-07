@@ -1,0 +1,44 @@
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+cmake-build-*/
+.idea_modules/
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+.vscode-test/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.VolumeIcon.icns
+.DocumentRevisions-V100/
+.TemporaryItems/
+
+# Xcode / Swift
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+.swiftpm/
+.build/
+timeline.xctimeline
+
+# Editor backups and temporary files
+*~
+*.swp
+*.swo
+*.orig
+*.rej

@@ -1,0 +1,27 @@
+Microcontroller_simulator [Version number]:
+
+3.3:
+Added a zoom feature that can be toggled with Z.
+Updated textures.
+Updated Documentation.
+
+3.2:
+    Added Buzzer functionality to the microcontroller simulator.
+        Added Buzzer texture to the microcontroller texture atlas.
+        Added 2 funtions to use the buzzer:
+            BZR_Init();
+            BZR_SetValue(frequency, amplitude, on);
+    Removed LCD display texture from the texture atlas (It had no support).
+    Slight simulator side code change to seperate Linux version.
+        No Linux support yet.
+    Made "MK_document.docx" based on the "Tarkvara_Document.docx".
+	This new document focuses more on how to use the software.
+    Added icons to the program itself.
+
+3.1:
+    Updated rendering librarie from SDL2 to SDL3.
+        Fixed the errors in the dev branch caused by this.
+    Debugger tells user more information about the programs status when opening.
+    Removed unneeded files.
+    Dev branch is easier to work with now.
+
