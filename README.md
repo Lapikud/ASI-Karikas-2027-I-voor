@@ -4,6 +4,7 @@
 - [Alusta siit!](#alustuseks)
 - [Ülesanded](#ülesanded)
 - [Simulaator](#simulaator)
+- [AI kasutamise juhend](ai-usage/README.md)
 - [Linuxi ja macOS-i juhend simulaatori kasutamiseks](#linuxi-ja-macos-i-juhend-simulaatori-kasutamiseks)
 
 ## Alusta siit!
