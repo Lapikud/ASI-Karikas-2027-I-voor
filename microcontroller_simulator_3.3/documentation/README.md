@@ -3,7 +3,7 @@ Hello!
 This project was made to work in Windows.
 
 To get started:
-Open "MK_Dokument.docx". It contains all the info you will need.
+Open "MK_document.pdf". It contains all the info you will need.
 
 On page 1. there is the table of contents.
 The Chapters you will use the most are:

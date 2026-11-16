@@ -10,7 +10,7 @@
 ## Alusta siit!
 ### 1. Registreeri ennast võistlusele
 
-Selleks, et saaksime Sinu osalemise ära kaardistada, siis kui veel pole, täida ära [**LIITUMISANKEET**](https://pilves.lapikud.ee/apps/forms/s/pETWDxgowe6K6Zjb5wmXfwz8).
+**Selleks, et võistlusel osaleda, pead ennast registreerima.** Seega, kui veel pole, täida ära [**LIITUMISANKEET**](https://pilves.lapikud.ee/apps/forms/s/pETWDxgowe6K6Zjb5wmXfwz8).
 
 Ankeeti sisestatud e-posti aadressi kaudu saame Sind ka hoida kursis tähtsa informatsiooniga, näiteks kui midagi ajakavas, ülesannetes või reeglites peaks muutuma.
 
@@ -20,7 +20,7 @@ Selleks, et saaksid lahendama hakata, pead looma endale repositooriumi (edaspidi
 
 ***Fork*e me ei kontrolli. Sinu lahendused peavad olema privaatses repos.**
 
-Soovitame selleks I vooru väljakutse repo *template*'i põhjal endale repo luua.
+Soovitame selleks I vooru väljakutse repositooriumi *template*'i põhjal endale repositooriumi luua.
 
 Vajuta **Use this template** nupu peale ning vali **Create a new repository**.
 
@@ -235,7 +235,7 @@ ASI Karika 2027 I vooru väljakutse on rajatud mikrokontrolleri simulaatori peal
 
 > Oluline kaust on **microcontroller_simulator_3.3/documentation**
 
-Seal on failid **MK_document.docx** ja **README.md**, mis oleks väga kasulik läbi lugeda.
+Seal on failid **MK_document.pdf** ja **README.md**, mis oleks väga kasulik läbi lugeda.
 
 Simulaatori kasutamiseks loe esiteks juhendit, mis võetud otse **microcontroller_simulator_3.3/documentation**-is olevast **README.md**-st:
 
@@ -245,7 +245,7 @@ Hello!
 This project was made to work in Windows.
 
 To get started:
-Open "MK_Dokument.docx". It contains all the info you will need.
+Open "MK_document.pdf". It contains all the info you will need.
 
 On page 1. there is the table of contents.
 The Chapters you will use the most are:
